@@ -34,8 +34,9 @@ let newIndexNumber = 0;
 
 //Stretch #1 and 2
 
-//Introduction Message
-console.log(`Welcome to Todo CLI\n-------------------`)
+//Introduction output message
+console.log(`Welcome to Todo CLI`);
+console.log('-------------------');
 
 // If .json input exists for process.argv, then proceed with stretch solution
 if (process.argv[2] != null && process.argv[2].includes(".json")) {

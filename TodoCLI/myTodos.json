@@ -1,25 +1,19 @@
 [{
-    "completed": true,
-    "title": "Feed the raptops"
-  },
-  {
-    "completed": false,
-    "title": "Have lunch"
-  },
-  {
-    "completed": false,
-    "title": "Go see Deadpool 2"
-  },
-  {
-    "completed": false,
-    "title": "Write a script to fix the climate"
-  },
-  {
-    "completed": true,
-    "title": "Watch TV"
-  },
-  {
-    "completed": false,
-    "title": "Study for 10 minutes"
-  }
-]
+  "completed": true,
+  "title": "Feed the raptops"
+}, {
+  "completed": false,
+  "title": "Have lunch"
+}, {
+  "completed": false,
+  "title": "Go see Deadpool 2"
+}, {
+  "completed": false,
+  "title": "Write a script to fix the climate"
+}, {
+  "completed": true,
+  "title": "Watch TV"
+}, {
+  "completed": false,
+  "title": "Study for 10 minutes"
+}]
